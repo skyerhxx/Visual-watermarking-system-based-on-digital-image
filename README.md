@@ -32,17 +32,23 @@
 
 
 
+### 环境
+
+Python3.7
+
 
 
 ### 运行方式
 
 直接运行即可
 
-main.py是源代码
+```
+python main,py
+```
 
-main.exe是用pyinstaller导出的exe可执行程序(因较大没有上传)
-
-GUI使用的Tkinter，因为涉及多层窗口的嵌套，就没有对程序进行拆分，全部写到一个程序里面了
+* main.py是源代码
+* main.exe是用pyinstaller导出的exe可执行程序(因较大没有上传)
+* GUI使用的Tkinter，因为涉及多层窗口的嵌套，就没有对程序进行拆分，全部写到一个程序里面了
 
 
 
