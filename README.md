@@ -34,7 +34,7 @@
 
 ### 环境
 
-Python3.7
+* Python3.7
 
 
 
@@ -43,7 +43,7 @@ Python3.7
 直接运行即可
 
 ```
-python main,py
+python main.py
 ```
 
 * main.py是源代码
